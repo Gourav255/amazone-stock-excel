@@ -1,4 +1,4 @@
-# Amazon-Stock-Analysis-MSExcel-DB
+# Amazon-Stock-Analysis-MSExcel-DB BY GOURAV
 
 ## About Amazon
 
